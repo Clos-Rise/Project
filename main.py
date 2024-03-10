@@ -40,4 +40,4 @@ async def on_message(message):
             awaiting_answer = False
             current_question = None
 
-client.run('MTIwNTk3NTcyNjE1MTU2OTQzOQ.GnqXpX.wXPjCRrdbuw0SHC1Uc6j0tT8XCV6qO1AxPpgoE')
+client.run('bot token')
